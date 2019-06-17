@@ -1,4 +1,5 @@
-[
+{
+  'products': [
 {"id":1,"name":"Otter, small-clawed","category":"Orange"},
 {"id":2,"name":"Arctic hare","category":"Aquamarine"},
 {"id":3,"name":"Lemur, ring-tailed","category":"Violet"},
@@ -20,3 +21,4 @@
 {"id":19,"name":"Tapir, brazilian","category":"Crimson"},
 {"id":20,"name":"European red squirrel","category":"Indigo"}
 ]
+}
