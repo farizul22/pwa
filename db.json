@@ -1,5 +1,5 @@
 {
-  'products': [
+  "products": [
 {"id":1,"name":"Otter, small-clawed","category":"Orange"},
 {"id":2,"name":"Arctic hare","category":"Aquamarine"},
 {"id":3,"name":"Lemur, ring-tailed","category":"Violet"},
